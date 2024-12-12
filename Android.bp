@@ -51,7 +51,6 @@ cc_defaults {
         "libdrm",
     ],
 
-    vendor: true,
     enabled: false,
     arch: {
         x86_64: {
