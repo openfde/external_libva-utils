@@ -52,12 +52,6 @@ cc_defaults {
     ],
 
     vendor: true,
-    enabled: false,
-    arch: {
-        x86_64: {
-            enabled: true,
-        },
-    },
 }
 
 cc_library {
